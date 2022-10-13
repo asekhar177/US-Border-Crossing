@@ -1,4 +1,6 @@
 # US-Border-Crossing
-An analysis of US Border Crossing data from Jan 1996 to Mar 2019.
-
-The data from this project was extracted from https://www.kaggle.com/akhilv11/border-crossing-entry-data/ and the contributors of this project were instrumental in helping me explore new ways to describe my findings. I wouldn't thank any one person in particular because they all helped me in some way! 
+This project is an analysis of the US Border Crossing data from Jan 1996 to Mar 2019. The following outcomes were achieved:
+• Conducted analysis to understand trends in the US Border Crossing data from January 1996 to March 2019.
+• Determined the most popular and least popular border crossings and ports between US-Mexico and US-Canada.
+• Undertook time series analysis using ARIMA modelling to forecast and decompose trends and seasonality.
+• Analysed inflows and outflows of border crossing transportation methods to decompose common crossing methods.
